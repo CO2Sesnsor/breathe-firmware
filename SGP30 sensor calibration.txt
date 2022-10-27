@@ -1,0 +1,2 @@
+uint16_t TVOC_base, eCO2_base;
+sgp.getIAQBaseline(&eCO2_base, &TVOC_base);
